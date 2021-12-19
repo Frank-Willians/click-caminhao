@@ -1,14 +1,19 @@
 <template>
-<navegacao-home></navegacao-home>
+  <main>
+    <navegacao-home></navegacao-home>
+    <banner-home></banner-home>
+  </main>
 </template>
 
 <script>
 import NavegacaoHome from './components/NavegacaoHome.vue';
+import BannerHome from './components/BannerHome.vue';
 
 export default {
   name: 'App',
   components: {
-    NavegacaoHome
+    NavegacaoHome,
+    BannerHome
   }
 }
 </script>

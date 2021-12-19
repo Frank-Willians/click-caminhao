@@ -16,7 +16,7 @@ export default {
 }
 </script>
 
-<style>
+<style scope>
   nav {
     height: 20vh;
     width: 100vw
