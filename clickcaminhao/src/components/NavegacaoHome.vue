@@ -52,6 +52,11 @@ export default {
     margin-right: 10px;
   }
 
+  .cadastrar {
+    background-color: #18a0fb;
+    color: #ffffff;
+  }
+
   .btn {
     font-family: roboto,sans-serif;
     border-radius:4px;
@@ -60,13 +65,9 @@ export default {
     text-decoration: none;
   }
 
-  .cadastrar {
-    background-color: #18a0fb;
-    color: #ffffff;
-  }
-
   .btn:hover {
     animation: pulse 1s linear infinite;
+    box-shadow: 1px 1px 2px 1px #c4c4c4;
   }
 
   @keyframes pulse {
