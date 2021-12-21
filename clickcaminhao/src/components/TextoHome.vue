@@ -15,7 +15,7 @@ export default {
   section {
     height: 50vh;
     width: 100vw;
-    background-color: #dfdfdf;
+    background-color: #fafafa;
     display: flex;
     justify-content: center;
     align-items: center;
