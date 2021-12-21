@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="secaoFotoHome">
     <div class="centralizaParagrafo">
        <p class="p-foto">Use a Click Caminhão para fazer as melhores escolhas.</p>
     </div> 
@@ -13,7 +13,7 @@ export default {
 </script>
 
 <style scope>
-  section {
+  .secaoFotoHome {
     height: 95vh;
     width: 100vw;
     background-image: url(".././assets/banner-clickCaminhao-2.jpg");
