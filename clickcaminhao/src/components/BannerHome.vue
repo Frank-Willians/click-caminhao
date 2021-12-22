@@ -7,9 +7,9 @@
 </template>
 
 <script>
-export default {
-  name: "BannerHome"
-}
+  export default {
+    name: "BannerHome"
+  }
 </script>
 
 <style scope>

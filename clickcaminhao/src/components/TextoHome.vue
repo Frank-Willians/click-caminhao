@@ -1,6 +1,6 @@
 <template>
   <section>
-    <span></span>
+    <span class="ornamento"></span>
     <p>A Click Caminhão surgiu com o intuito de ajudar as empresas a medirem suas produções de maneira fácil e rápido, assim podendo tomar as melhores decisões.</p>
   </section>
 </template>
@@ -26,9 +26,10 @@ export default {
     font-size: 1.5rem;
     max-width: 800px;
     text-align: center;
+    color: #242424;
   }
 
-  span {
+  .ornamento {
     width: 120px;
     height: 5px;
     background-color: #18a0fb;
