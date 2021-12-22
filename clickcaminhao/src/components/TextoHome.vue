@@ -34,6 +34,7 @@ export default {
     height: 5px;
     background-color: #18a0fb;
     border-radius: 4px;
+    overflow: hidden;
   }
 
 </style>
