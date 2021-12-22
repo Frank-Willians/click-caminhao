@@ -6,12 +6,13 @@
 </template>
 
 <script>
-export default {
-  name: "TextoHome"
-}
+  export default {
+    name: "TextoHome"
+  }
 </script>
 
 <style>
+
   section {
     height: 50vh;
     width: 100vw;
@@ -34,7 +35,6 @@ export default {
     height: 5px;
     background-color: #18a0fb;
     border-radius: 4px;
-    overflow: hidden;
   }
 
 </style>
