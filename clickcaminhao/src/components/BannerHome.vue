@@ -16,7 +16,7 @@
   .secaoFotoHome {
     height: 95vh;
     width: 100vw;
-    background-image: url(".././assets/banner-clickCaminhao-2.jpg");
+    background-image: url(".././assets/banner-clickcaminhao-2.jpg");
   }
 
   .centralizaParagrafo {
