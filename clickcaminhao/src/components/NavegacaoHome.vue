@@ -1,10 +1,10 @@
 <template>
   <nav>
     <div>
-      <a href="/" id="logo" ><img src=".././assets/Union.svg" alt="Click Caminhão" ref="Click Caminhão"></a>
+      <router-link to="/" class="logo" ><img src=".././assets/Union.svg" alt="Click Caminhão" ref="Click Caminhão"></router-link>
       <ul>
-        <a href="#" class="entrar btn">Entrar</a>
-        <a href="#" class="cadastrar btn">Cadastrar</a>
+        <router-link to="/" class="entrar btn">Entrar</router-link>
+        <router-link to="/Cadastrar" class="cadastrar btn">Cadastrar</router-link>
       </ul>
     </div>
   </nav>
@@ -30,13 +30,13 @@ export default {
     grid-template-columns: 1fr 1fr;
   }
 
-  #logo {
+  .logo {
     display: flex;
     justify-content: start;
     align-items: center;
   }
 
-  #logo img {
+  .logo img {
     height: 60px;
     width: 120px;
   }
