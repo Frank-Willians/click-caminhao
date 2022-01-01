@@ -18,7 +18,7 @@ export default {
   .secaoFooter {
     height: 20vh;
     width: 100vw;
-    border-top: 1px solid #18a0fb;
+    background-color: #ffffff;
   }
 
   .alinhaFooter {
