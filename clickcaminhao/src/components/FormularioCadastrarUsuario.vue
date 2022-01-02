@@ -39,14 +39,14 @@
   }
 </script>
 
-<style>
+<style scope>
   .formularioDeCadastroDeUsuario {
     height: 120vh;
     width: 100vw;
   }
 
   .formularioCadastrarUsuario {
-    height: 110%;
+    height: 100%;
     max-width: 80%;
     margin: 0 auto; 
     display: flex;
@@ -57,11 +57,11 @@
 
   .formularioCadastrarUsuario__titulo {
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 50px;
   }
 
   .formularioCadastrarUsuario__centralizar {
-    height: 110%;
+    height: 100%;
     width: 50%;
     display: flex;
     justify-content: center;
@@ -76,10 +76,9 @@
   }
 
   .formularioCadastrarUsuario__input {
-    padding: 15px;
-    font-family: "roboto,sans-serif";
+    padding: 12px;
+    font-family: roboto,sans-serif;
     margin: 10px 0px;
-    font-size: 1.2rem;
   }
   
   .formularioCadastrarUsuario__input:focus {
@@ -89,7 +88,7 @@
 
 
   .formularioCadastrarUsuario__submit {
-    padding: 20px 0px;
+    padding: 15px 0px;
     background-color: #18a0fb;
     color: #ffffff;
     outline: none;

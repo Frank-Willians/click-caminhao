@@ -3,7 +3,7 @@
     <div>
       <router-link to="/" class="logo" ><img src=".././assets/Union.svg" alt="Click Caminhão" ref="Click Caminhão"></router-link>
       <ul>
-        <router-link to="/" class="entrar btn">Entrar</router-link>
+        <router-link to="/Entrar" class="entrar btn">Entrar</router-link>
         <router-link to="/Cadastrar" class="cadastrar btn">Cadastrar</router-link>
       </ul>
     </div>
