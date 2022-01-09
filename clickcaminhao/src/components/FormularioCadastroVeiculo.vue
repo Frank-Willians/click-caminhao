@@ -11,7 +11,7 @@
             
             <label for="placa">Placa do Veiculo</label>
             <div class="c-FormularioCdastroVeiculo__TodasAsPlacas">
-              <input type="text" id="placa" placeholder="Cavalo" /><input type="text" placeholder="Carreta 1" /><input type="text" placeholder="Carreta 2" /><input type="text" placeholder="Carreta 3" />
+              <input type="text" id="placa" placeholder=" Cavalo" /><input type="text" placeholder=" Carreta 1" /><input type="text" placeholder=" Carreta 2" /><input type="text" placeholder=" Carreta 3" />
             </div>
 
           </div>
@@ -19,7 +19,7 @@
 
             <label for="">Peso</label>
             <div class="c-FormularioCdastroVeiculo__TodosOsPesos">
-              <input type="text" placeholder="Tara" /><input type="text" placeholder="Peso Bruto" /><input type="text" placeholder="Peso Liquído" />
+              <input type="text" placeholder=" Tara" /><input type="text" placeholder=" Peso Bruto" /><input type="text" placeholder=" Peso Liquído" />
             </div>
 
           </div>
@@ -27,22 +27,22 @@
 
             <div class="c-FormularioCadastroVeiculo__Origem">
               <label for="">Origem</label>
-              <input type="text" class="c-FormularioCadastroVeiculo__OrigemInput" placeholder="Origem" />
+              <input type="text" class="c-FormularioCadastroVeiculo__OrigemInput" placeholder=" Origem" />
             </div>
             <div class="c-FormularioCadastroVeiculo__Destino">
               <label for="">Destino</label>
-              <input type="text" class="c-FormularioCadastroVeiculo__DestinoInput" placeholder="Destino" />
+              <input type="text" class="c-FormularioCadastroVeiculo__DestinoInput" placeholder=" Destino" />
             </div>
 
           </div>
           <div class="c-FormularioCadastroVeiculo__ClienteOrigemDestino">
             <div class="c-FormularioCadastroVeiculo__ClienteOrigem">
               <label for="">Cliente Origem</label>
-              <input type="text" class="c-FormularioCadastroVeiculo__ClienteOrigemInput" placeholder="Cliente Origem"/>
+              <input type="text" class="c-FormularioCadastroVeiculo__ClienteOrigemInput" placeholder=" Cliente Origem"/>
             </div>
             <div class="c-FormularioCadastroVeiculo__ClienteDestino">
               <label for="">Cliente Destino</label>
-              <input type="text" class="c-FormularioCadastroVeiculo__ClienteDestinoInput" placeholder="Cliente Destino"/>
+              <input type="text" class="c-FormularioCadastroVeiculo__ClienteDestinoInput" placeholder=" Cliente Destino"/>
             </div> 
           </div>
         </div>
@@ -54,15 +54,15 @@
 
           <div class="c-FormularioCadastroVeiculo__NomeMotorista">
             <label for="">Nome Motorista</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__NomeMotoristaInput" placeholder="Nome Motorista" />
+            <input type="text" class="c-FormularioCadastroVeiculo__NomeMotoristaInput" placeholder=" Nome Motorista" />
           </div>
           <div class="c-FormularioCadastroVeiculo__CpfMotorista">
             <label for="">CPF</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__CpfMotoristaInput" placeholder="CPF Motorista" />
+            <input type="text" class="c-FormularioCadastroVeiculo__CpfMotoristaInput" placeholder=" CPF Motorista" />
           </div>
           <div class="c-FormularioCadastroVeiculo__ContatoMotorista">
             <label for="">Contato</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__ContatoMotoristaInput" placeholder="Contato Motorista" />
+            <input type="text" class="c-FormularioCadastroVeiculo__ContatoMotoristaInput" placeholder=" Contato Motorista" />
           </div>
         
         </div>
@@ -77,33 +77,33 @@
           <div class="c-FormularioCadastroVeiculo__UmidadeImpureza">
             <div class="c-FormularioCadastroVeiculo__Umidade">
               <label for="">Umidade</label>
-              <input type="text" placeholder="Umidade" />
+              <input type="text" placeholder=" Umidade" />
             </div>
             <div class="c-FormularioCadastroVeiculo__Impureza">
               <label for="">Impureza</label>
-              <input type="text" placeholder="Impureza" />
+              <input type="text" placeholder=" Impureza" />
             </div>
           </div>
 
           <div class="c-FormularioCadastroVeiculo__AvariadosQuebrados">
             <div class="c-FormularioCadastroVeiculo__Avariados">
               <label for="">Avariados</label>
-              <input type="text" placeholder="Avariados" />
+              <input type="text" placeholder=" Avariados" />
             </div>
             <div class="c-FormularioCadastroVeiculo__Quebrados">
               <label for="">Quebrados</label>
-              <input type="text" placeholder="Quebrados" />
+              <input type="text" placeholder=" Quebrados" />
             </div>
           </div>
 
           <div class="c-FormularioCadastroVeiculo__QueimadosPicados">
             <div class="c-FormularioCadastroVeiculo__Queimados">
               <label for="">Queimados</label>
-              <input type="text" placeholder="Queimados" />
+              <input type="text" placeholder=" Queimados" />
             </div>
             <div class="c-FormularioCadastroVeiculo__Picados">
               <label for="">Picados</label>
-              <input type="text" placeholder="Picados" />
+              <input type="text" placeholder=" Picados" />
             </div>
           </div>
 
@@ -115,17 +115,17 @@
 
           <div class="c-FormularioCadastroVeiculo__NomeClassificador">
             <label for="">Nome Classificador</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__NomeClassificadorInput" placeholder="Nome Classificador"/>
+            <input type="text" class="c-FormularioCadastroVeiculo__NomeClassificadorInput" placeholder=" Nome Classificador"/>
           </div>
 
           <div class="c-FormularioCadastroVeiculo__ContatoClassificador">
              <label for="">Contato Classificador</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__ContatoClassificadorInput" placeholder="Contato Classificador"/>
+            <input type="text" class="c-FormularioCadastroVeiculo__ContatoClassificadorInput" placeholder=" Contato Classificador"/>
           </div>
           
           <div class="c-FormularioCadastroVeiculo__EmpresaClassificador">
              <label for="">Empresa Classificador</label>
-            <input type="text" class="c-FormularioCadastroVeiculo__EmpresaClassificadorInput" placeholder="Empresa Classificador"/>
+            <input type="text" class="c-FormularioCadastroVeiculo__EmpresaClassificadorInput" placeholder=" Empresa Classificador"/>
           </div>
 
         </div>
@@ -136,7 +136,7 @@
 
         <div class="c-FormularioCadastroVeiculo__Observacao">
           <label for="">Observação</label>
-          <input type="text" class="c-FormularioCadastroVeiculo__ObservacaoInput" placeholder="Observação" />
+          <input type="text" class="c-FormularioCadastroVeiculo__ObservacaoInput" placeholder=" Observação" />
         </div>
 
         <input type="submit" class="c-FormularioCadastroVeiculo__ObservacaoEnviar" />
@@ -156,7 +156,7 @@
 <style>
   
   .l-FormularioCadastroVeiculo {
-    height: 130vh;
+    height: 160vh;
     width: 100vw;
   }
 
@@ -173,112 +173,139 @@
     display: flex;
   }
 
+  .c-FormularioCadastroVeiculo__veiculo p {
+    margin-top: 20px;
+  }
+
   .c-FormularioCadastroVeiculo__veiculo label {
     font-family: roboto,sans-serif;
   }
 
   .c-FormularioCadastroVeiculo__DadosVeiculo {
     height: 100%;
-    width: 40%;
+    width: 50%;
     display: flex;
     flex-direction: column;
   }
 
   .c-FormularioCadastroVeiculo__Placa {
-    width: 550px;
+    width: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     margin-top: 10px;
   }
 
   .c-FormularioCadastroVeiculo__Placa label {
-    margin-left: 6px;
+    margin-left: 32px;
   }
 
   .c-FormularioCdastroVeiculo__TodasAsPlacas {
     display: flex;
-    width: 550px;
+    width: 90%;
+    height: 40px;
   }
 
   .c-FormularioCdastroVeiculo__TodasAsPlacas input {
-    height: 20px;
-    width: 100px;
+    height: 30px;
+    width: 40%;
     margin: 5px;
   }
 
   .c-FormularioCadastroVeiculo__Peso {
-    width: 550px;
+    width: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
   }
 
   .c-FormularioCadastroVeiculo__Peso label {
-    margin-left: 6px;
+    margin-left: 32px;
   }
 
   .c-FormularioCdastroVeiculo__TodosOsPesos {
-    width: 550px;
+    width: 90%;
+    height: 40px;
     display: flex;
   }
 
   .c-FormularioCdastroVeiculo__TodosOsPesos input {
-    height: 20px;
-    width: 100px;
+    height: 30px;
+    width: 50%;
     margin: 5px;
   }
 
   .c-FormularioCadastroVeiculo__OrigemDestino {
-    width: 550px;
+    width: 100%;
   }
 
   .c-FormularioCadastroVeiculo__Origem {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    justify-content: center;
+    width: 90%;
+    margin-left: 25px;
+  }
+
+  .c-FormularioCadastroVeiculo__Origem label {
+    margin-bottom: 4px;
   }
 
   .c-FormularioCadastroVeiculo__Origem input {
-    height: 20px;
-    width: 100px;
+    height: 30px;
+    width: 90%;
   }
 
   .c-FormularioCadastroVeiculo__Destino {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    justify-content: center;
+    width: 90%;
+    margin-left: 25px;
+  }
+
+  .c-FormularioCadastroVeiculo__Destino label {
+    margin-bottom: 4px;
   }
 
   .c-FormularioCadastroVeiculo__Destino input {
-    height: 20px;
-    width: 100px;
+    height: 30px;
+    width: 90%;
   }
 
   .c-FormularioCadastroVeiculo__ClienteOrigemDestino {
-    width: 550px;
+    width: 100%;
+    align-items: center;
   }
 
   .c-FormularioCadastroVeiculo__ClienteOrigem {
     display: flex;
     flex-direction: column;
     height: 50px;
-    width: 100%;
+    width: 90%;
+    margin-left: 25px;
   }
 
   .c-FormularioCadastroVeiculo__ClienteOrigem input {
-    padding: 2px 0px;
-    width: 100px;
+    height: 32px;
+    width: 90%;
   }
 
   .c-FormularioCadastroVeiculo__ClienteDestino {
     display: flex;
     flex-direction: column;
     height: 50px;
-    width: 100%;
+    width: 90%;
+    margin-left: 25px;
   }
 
   .c-FormularioCadastroVeiculo__ClienteDestino input {
-    padding: 2px;
-    width: 100px;
+    height: 30px;
+    width: 90%;
+  }
+
+  .c-FormularioCadastroVeiculo__ClienteOrigemDestino label {
+    margin-bottom: 4px;
   }
 
   .c-FormularioCadastroVeiculo__DadosMotorista {
@@ -288,6 +315,10 @@
     flex-direction: column;
   }
 
+  .c-FormularioCadastroVeiculo__DadosMotorista label {
+    margin-bottom: 4px;
+  }
+
   .c-FormularioCadastroVeiculo__NomeMotorista {
     display: flex;
     flex-direction: column;
@@ -295,7 +326,7 @@
   }
 
   .c-FormularioCadastroVeiculo__NomeMotorista input {
-    padding: 2px;
+    height: 30px;
   }
 
   .c-FormularioCadastroVeiculo__CpfMotorista {
@@ -305,7 +336,7 @@
   }
 
   .c-FormularioCadastroVeiculo__CpfMotorista input {
-    padding: 2px;
+    height: 30px;
   }
 
   .c-FormularioCadastroVeiculo__ContatoMotorista {
@@ -315,18 +346,23 @@
   }
 
   .c-FormularioCadastroVeiculo__ContatoMotorista input {
-    padding: 2px;
+    height: 30px;
   }
 
 
   .c-FormularioCadastroVeiculo__Classificacao {
-    height: 40%;
+    height: 35%;
     width: 100%;
     display: flex;
+    margin-top: 30px;
+  }
+
+  .c-FormularioCadastroVeiculo__Classificacao label {
+    margin-bottom: 4px;
   }
 
   .c-FormularioCadastroVeiculo__Classificacao input {
-    padding: 2px;
+    height: 30px;
   }
 
   .c-FormularioCadastroVeiculo__Classificacao label {
@@ -410,7 +446,7 @@
   }
 
   .c-FormularioCadastroVeiculo__Enviar {
-    height: 20%;
+    height: 30%;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -425,22 +461,29 @@
 
   .c-FormularioCadastroVeiculo__Observacao label {
     margin-left: 25px;
+    margin-bottom: 4px;
+    font-family: roboto,sans-serif;
   }
 
   .c-FormularioCadastroVeiculo__ObservacaoInput {
-    padding: 2px;
-    width: 92%;
+    height: 32px;
+    width: 92.5%;
     margin-left: 25px;
   }
 
   .c-FormularioCadastroVeiculo__ObservacaoEnviar {
     width: 100px;
     margin-left: 27px;
-    padding: 4px;
+    margin-top: 20px;
+    height: 30px;
     border: 2px solid #18a0fb;
     background: #18a0fb;
     color: white;
     outline: none;
+  }
+
+  .c-FormularioCadastroVeiculo__ObservacaoEnviar:hover {
+    opacity: .8;
   }
 
 
