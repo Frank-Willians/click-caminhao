@@ -281,20 +281,20 @@
   .c-FormularioCadastroVeiculo__ClienteOrigem {
     display: flex;
     flex-direction: column;
-    height: 50px;
+    height: 60px;
     width: 90%;
     margin-left: 25px;
   }
 
   .c-FormularioCadastroVeiculo__ClienteOrigem input {
-    height: 32px;
+    height: 30px;
     width: 90%;
   }
 
   .c-FormularioCadastroVeiculo__ClienteDestino {
     display: flex;
     flex-direction: column;
-    height: 50px;
+    height: 60px;
     width: 90%;
     margin-left: 25px;
   }

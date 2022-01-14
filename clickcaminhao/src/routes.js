@@ -5,6 +5,7 @@ import Home from "../src/views/Home.vue";
 import Cadastrar from "../src/views/Cadastrar.vue";
 import Entrar from "../src/views/Entrar.vue";
 import CadastroVeiculo from "../src/views/CadastroVeiculo.vue";
+import DashboardEmpresa from "../src/views/DashboardEmpresa.vue";
 
 Vue.use(Router);
 
@@ -32,6 +33,11 @@ export default new Router({
       path: "/CadastroVeiculo",
       name: "CadastroVeiculo",
       component: CadastroVeiculo
+    },
+    {
+      path: "/DashboardEmpresa",
+      name: "DashboardEmpresa",
+      component: DashboardEmpresa
     }
   ]
 });
